@@ -1,0 +1,6 @@
+{
+  "name": "Forever Yours, Refilwe",
+  "description": "An intimate, deeply romantic digital tribute for Refilwe (Fifi), featuring responsive mobile visuals, romantic melody, letters, and heartbeats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
